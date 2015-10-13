@@ -1,0 +1,23 @@
+{
+  "name": "node-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper on node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LancePTB/node-scraper.git"
+  },
+  "author": "Lance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LancePTB/node-scraper/issues"
+  },
+  "homepage": "https://github.com/LancePTB/node-scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.65.0"
+  }
+}
